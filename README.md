@@ -1,7 +1,7 @@
 # Owen Moogk
 Hey, I'm Owen, a Mechatronics Engineering Student at the University of Waterloo (2027).
 
-I've recently completed an internship at [Busplanner](https://busplanner.com), and am soon joining the [ULethbridge Neurocage](http://neurocage.com) research team in Alberta! For more information, see my website or LinkedIn:
+I've recently completed an internship at [BusPlanner](https://busplanner.com), and am soon joining the [ULethbridge Neurocage](http://neurocage.com) research team in Alberta! For more information, see my website or LinkedIn:
 
 https://owenmoogk.github.io
 
