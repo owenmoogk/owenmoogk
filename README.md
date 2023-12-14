@@ -1,14 +1,14 @@
 # Owen Moogk
-Mechatronics Engineering Student @ UW (2027)
+Hey, I'm Owen, a Mechatronics Engineering Student at the University of Waterloo (2027).
+
+I've recently completed an internship at [Busplanner](https://busplanner.com), and am soon joining the [ULethbridge Neurocage](http://neurocage.com) research team in Alberta! For more information, see my website or LinkedIn:
 
 https://owenmoogk.github.io
 
-https://www.linkedin.com/in/owenmoogk/
+https://linkedin.com/in/owenmoogk/
 
 ### Skills
-- Visual Studio Code, Github / Git Versioning
-- HTML5, CSS, JS, Python, ReactJS, C, C++, Django
-- AI / Neural Networks (in Python)
-- Blender, SolidWorks, Onshape
-
-I’m currently working in tensorflow, learning about the applications of AI and neural networks.
+- Python, C++, C, RobotC, Java, R, SQL, Arduino
+- HTML5, CSS, JS, Typescript, ReactJS, Django
+- Visual Studio Code, Visual Studio, TFS, Github / Git Versioning
+- Solidworks and 3D printing (robotics)
