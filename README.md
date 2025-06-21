@@ -1,7 +1,7 @@
 # Owen Moogk
 Hey, I'm Owen, a Mechatronics Engineering Student at the University of Waterloo (graduating in 2027).
 
-I enjoy solving interesting problems, usually with software and/or hardware. Using Altium, Python, React, 3D printing, and SolidWorks to make cool stuff!
+I enjoy solving interesting problems, usually with software and/or hardware. I'm passionate about robotic systems, space travel, motorsport, and energy solutions, and love to travel while working on advanced technology. I'm typically using tools like Altium, Python, React, SolidWorks, and 3D Printers to make cool stuff!
 
 I'm currently working at [Wrmth](https://wrmth.ca) in North Bay as an electrical engineering student, designing and building heated outdoor furniture!
 
