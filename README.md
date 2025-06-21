@@ -5,6 +5,6 @@ I enjoy solving interesting problems, usually with software and/or hardware. I'm
 
 I'm currently working at [Wrmth](https://wrmth.ca) in North Bay as an electrical engineering student, designing and building heated outdoor furniture!
 
-I've formerly been employed at [Rocket Factory Augsburg](https://rfa.space), the [ULethbridge Hub for Neuroengineering Solutions](https://www.linkedin.com/company/hub-for-neuroengineering-solutions), and [BusPlanner](https://busplanner.com) in engineering related roles.
+I've formerly been employed at [Rocket Factory Augsburg](https://rfa.space), [Qamp](https://www.linkedin.com/company/qampio), [QC Career School](https://www.qccareerschool.com/), the [ULethbridge Hub for Neuroengineering Solutions](https://www.linkedin.com/company/hub-for-neuroengineering-solutions), and [BusPlanner](https://busplanner.com) in engineering related roles.
 
 For more information about my work, see my [website](https://owenmoogk.github.io) or [LinkedIn](https://linkedin.com/in/owenmoogk/).
